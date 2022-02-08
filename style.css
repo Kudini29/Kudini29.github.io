@@ -115,7 +115,12 @@ span{
 	.Pricing_block{
 		width:100px;
 	}
-	
+	.Pricing_block{
+		flex-direction:column;
+	}
+	.sends{
+		flex-direction:column;
+	}
 }
 
 	
