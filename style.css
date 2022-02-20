@@ -8,7 +8,7 @@
 	background-size:cover;
 	width:600px;
 	height:750px;
-	background-image:url("img/photo1.jpg");
+	background-image:url("img/photo2.jpg");
 }
 .contact{
 	width:600px;
@@ -105,18 +105,39 @@ p{
 	margin-top:20px;
 	width:881px;
 	height:314px;
-	display:flex;
+	
+	
 }
 .textskills{
 	font-size:30px;
+
+	padding-top:90px;
+}
+.textskills1{
+	font-size:30px;
+
+	padding-top:40px;
 }
 .emoji{
 	font-size:20px;
-	padding-top:105px;
+	margin-top:95px;
+	height:100px;
+	width:150px;
+
 }
 h2{
 	margin-left:100px;
 }
 body {
   font-family: Verdana;
+}
+.test{
+	display:flex;
+}
+.emoji1{
+	font-size:20px;
+	margin-top:45px;
+	height:40px;
+	width:150px;
+	
 }
